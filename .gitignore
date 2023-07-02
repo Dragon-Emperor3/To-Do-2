@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+todo/__pycache__
+todo/migrations
+To_Do_2/__pycache__

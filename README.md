@@ -1,0 +1,2 @@
+# To-Do-2
+Introducing an upgraded To-do list web application. Unlike its previous version, this enhanced version breaks free from limitations by enabling users to access their tasks across multiple systems. Previously, users were unable to monitor their work if their system or device was unavailable. To resolve this, we have incorporated user login functionalities, empowering users to effortlessly track their tasks by simply entering their credentials and logging in
